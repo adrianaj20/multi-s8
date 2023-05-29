@@ -1,0 +1,25 @@
+﻿.button {
+    background-color: #53fa10;
+    color: white;
+    margin: 40;
+}
+
+.label {
+    color: #000000;
+    font-size: 25;
+    text-align: center;
+    margin-top: 30;
+}
+
+.imagenEstilo {
+    width: 200;
+    height: 200;
+    margin-top: 20;
+}
+
+#labelImagen {
+    color: #000000;
+    font-size: 20;
+    text-align: center;
+    margin-top: 20;
+}

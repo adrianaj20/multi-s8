@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XLab08.MainPage">
+    <ContentPage.Resources>
+        <StyleSheet Source="estilos.css" />
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <Label Text="Aqui esta mi boton con CSS" StyleClass="label" />
+        <Button Text="Boton CSS" StyleClass="button" />
+        <Image Source="goku.jpg" StyleClass="imagenEstilo" />
+        <Label Text="Goku Instinto" StyleId="labelImagen" />
+
+    </StackLayout>
+
+</ContentPage>
